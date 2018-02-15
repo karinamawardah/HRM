@@ -1,0 +1,108 @@
+body {
+    background-image: url("7.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.wrapper {
+    margin-left: 220px;
+    margin-right: 220px;
+    background-color:#ff99ff;
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
+}
+.content {
+    margin-left: 220px;
+    margin-right: 220px;
+    background-color: rgba(218, 245, 214, 0.822);
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+.judul{
+    text-align: center;
+    font-size :60px;
+    font-family:"courier new";
+    color:#B22222;
+    text-shadow: 5px 5px 5px white;
+}
+
+.wrapper .link ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: -39px;
+    margin-right: 39px;
+    
+}
+.wrapper .link ul li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: cambria;
+   
+}
+.wrapper .link ul li a:hover {
+    background-color: #B22222;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    color: white;
+    font-weight: bold;
+}
+.wrapper .link ul {
+    border-bottom: 6px solid #B22222;
+}
+.artikel img{
+    width: 300px; 
+    height: 225px;
+    float :left;
+    margin-right: 20px;
+    padding-top:30px;
+    padding-bottom:10px;
+}
+.artikel h2 a{
+    text-decoration : none;
+    color : #B22222;
+    font-family:"Constantia";
+    font-size:25px;
+   
+}
+.artikel h2 a:hover{
+    text-decoration : none !important;
+    color: 	#FF1493 !important;
+}
+p {
+    margin-left : 100px;
+    margin-right : 100px;
+    padding : auto;
+    text-align: justify;
+    color: black;
+    font-family :"times new roman";
+    font-size: 18px;
+}
+
+.isiberita h1{
+   
+    text-align: center;
+}
+.isiberita img{
+    margin-right : 100px;
+    margin-left : 125px;
+    width: 500px;
+}
+.penulis{
+    text-align: center;
+    font-size:15px;
+    padding-top:10px;
+    padding-bottom: 20px;
+   
+}
+h3{
+    text-align: center;
+}
+ 
